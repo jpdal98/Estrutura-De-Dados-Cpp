@@ -1,1 +1,2 @@
-# Estrutura_De_Dados_Cpp
+# Estrutura-de-Dados-2018.1
+Repositório dedicado aos códigos dos trabalhos de E.D.
