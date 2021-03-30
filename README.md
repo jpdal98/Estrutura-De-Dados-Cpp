@@ -1,2 +1,3 @@
 # Estrutura-de-Dados-2018.1
-Repositório dedicado aos códigos dos trabalhos de E.D.
+Repositório dedicado aos códigos dos trabalhos de Estrutura de Dados.
+Nesta disciplina foi visto: Lista, Pilha, Fila, Hash, Arvore, Fractais, Recursividade etc....
